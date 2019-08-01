@@ -63,3 +63,31 @@
 1. Quicksort
 2. Binary Tree
 3. Black-Red Tree
+4. Interpolation search
+
+### Core Foundation
+#### Advance
+1. Byte-Order
+
+## Hardware
+
+1. Memory hierarchy
+
+#### Advance
+1. SIMD
+
+
+## Data structures & algorithms
+
+1. Time complexity
+2. Dynamic array
+3. Hash table
+4. Binary search
+5. Bubble sort
+6. Merge sort
+
+#### Advance
+1. Quicksort
+2. Binary Tree
+3. Black-Red Tree
+4. Interpolation search
