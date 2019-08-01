@@ -25,7 +25,22 @@
 
 1. View Controller life Cycle
 2. iOS Application Lifecycle
+3. Auto Layout
 
+### Dispatch
+1. Grand Central Dispatch (GCD)
+
+
+### CoreData
+1. Core Data Stack
+#### Advance
+1. Using Core Data in the Background
+2. Lightweight Migration
+3. Heavyweight Migration
+
+### Core Foundation
+#### Advance
+1. Byte-Order
 
 ## Hardware
 
