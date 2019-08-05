@@ -7,9 +7,7 @@
 3. Automatic Reference Counting
 4. Extensions, Protocols
 5. Collection Types (Array, Set, Dictionary)
-
-
-#### Advance
+#### Advanced
 1. Generics
 2. Error Handling
 
@@ -33,20 +31,20 @@
 
 ### CoreData
 1. Core Data Stack
-#### Advance
+#### Advanced
 1. Using Core Data in the Background
 2. Lightweight Migration
 3. Heavyweight Migration
 
 ### Core Foundation
-#### Advance
+#### Advanced
 1. Byte-Order
 
 ## Hardware
 
 1. Memory hierarchy
 
-#### Advance
+#### Advanced
 1. SIMD
 
 ## Data structures & algorithms
@@ -58,7 +56,7 @@
 5. Bubble sort
 6. Merge sort
 
-#### Advance
+#### Advanced
 1. Quicksort
 2. Binary Tree
 3. Black-Red Tree
