@@ -61,3 +61,37 @@
 2. Binary Tree
 3. Black-Red Tree
 4. Interpolation search
+
+## Design Patterns
+### Creational Patterns
+1. Abstract Factory
+2. Builder
+3. Factory Method
+4. Object Pool
+5. Singleton
+
+### Structural Patterns
+1. Adapter
+2. Bridge
+3. Composite
+4. Decorator
+5. Facade
+6. Flyweight
+7. Private Class Data
+8. Proxy
+
+### Behavioral Patterns
+1. Chain of responsibility
+2. Command
+3. Interpreter
+4. Iterator
+5. Mediator
+6. Memento
+7. Null Object
+8. Observer
+9. State
+10. Strategy
+11. Template method
+12. Visitor
+
+
