@@ -64,6 +64,14 @@
 
 ## Object-oriented programming (OOP)
 
+### SOLID
+1. Single responsibility principle
+2. Interface segregation principle
+#### Advanced
+1. Open–closed principle
+2. Liskov substitution principle
+3. Dependency inversion principle
+
 ### Design Patterns
 #### Creational Patterns
 1. Abstract Factory
