@@ -62,15 +62,17 @@
 3. Black-Red Tree
 4. Interpolation search
 
-## Design Patterns
-### Creational Patterns
+## Object-oriented programming (OOP)
+
+### Design Patterns
+#### Creational Patterns
 1. Abstract Factory
 2. Builder
 3. Factory Method
 4. Object Pool
 5. Singleton
 
-### Structural Patterns
+#### Structural Patterns
 1. Adapter
 2. Bridge
 3. Composite
@@ -80,7 +82,7 @@
 7. Private Class Data
 8. Proxy
 
-### Behavioral Patterns
+#### Behavioral Patterns
 1. Chain of responsibility
 2. Command
 3. Interpreter
